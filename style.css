@@ -1,0 +1,14 @@
+.section{
+    border: 1px solid black;
+    width: 650px;
+    height: 475px;
+    margin-left: 350px;
+    margin-top: 30px;
+    background-color: rgb(167, 202, 202);
+}
+.ws{
+    margin-left: 40px;
+}
+h2{
+    text-align: center;
+}
